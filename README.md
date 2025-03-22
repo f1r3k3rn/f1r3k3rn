@@ -12,6 +12,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate computer science stud
 - **HTML/CSS**: Creating modern, responsive websites
 - **SQL**: Relational database management
 - **Assembly**: Low-level programming for performance optimization
+- **Prolog**: Logic programming and artificial intelligence
 
 ## 📊 Stats
 
@@ -30,14 +31,17 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate computer science stud
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![Assembly](https://img.shields.io/badge/-Assembly-4EAA25?style=flat-square&logo=assemblyscript&logoColor=fff)
+![Prolog](https://img.shields.io/badge/-Prolog-5C3C6A?style=flat-square&logo=prolog&logoColor=fff)
 
 ## 🎯 Projects
 
-🔗 **[Project 1](link to the project)**: Brief description of the project. What did you learn, which technologies did you use, etc.
+🔗 **[My Website](https://f1r3k3rn.github.io)**: My personal website showcasing some of my work and projects.
 
-🔗 **[Project 2](link to the project)**: Brief description of the project. What did you learn, etc.
+🔗 **[IUM 2024](https://github.com/f1r3k3rn/IUM_2024)**: A repository for the IUM 2024 project, where I collaborated on developing innovative solutions.
 
-🔗 **[Project 3](link to the project)**: Brief description of the project. What did you learn, etc.
+🔗 **[ICON 2024](https://github.com/f1r3k3rn/ICON_2024)**: A repository for the ICON 2024 project, where I worked on developing tools and algorithms.
+
+🔗 **[Codeforces Solutions](https://github.com/f1r3k3rn/codeforces)**: My repository containing solutions to various problems on Codeforces, focusing on algorithm design and problem-solving skills.
 
 ## 💬 Contact Me
 
