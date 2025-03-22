@@ -42,18 +42,3 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate computer science stud
 🔗 **[ICON 2024](https://github.com/f1r3k3rn/ICON_2024)**: A repository for the ICON 2024 project, where I worked on developing tools and algorithms.
 
 🔗 **[Codeforces Solutions](https://github.com/f1r3k3rn/codeforces)**: My repository containing solutions to various problems on Codeforces, focusing on algorithm design and problem-solving skills.
-
-## 💬 Contact Me
-
-If you have any questions or want to talk about technology, feel free to reach out via the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-
----
-
-## 🎉 Extra Fun!
-
-![Programming GIF](https://media.giphy.com/media/8fQQ3xt2h5e2s/giphy.gif)
-
-Thanks for visiting my profile! 🌟
